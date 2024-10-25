@@ -5,3 +5,4 @@
 
 
 Бот розміщенний на хостингу: https://www.pythonanywhere.com/.
+Тег бота в телеграмі: @KonykKNDM52_bot.
